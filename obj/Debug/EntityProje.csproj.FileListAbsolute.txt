@@ -1,0 +1,16 @@
+D:\Projects\EntityProje\bin\Debug\EntityProje.exe.config
+D:\Projects\EntityProje\bin\Debug\EntityProje.exe
+D:\Projects\EntityProje\bin\Debug\EntityProje.pdb
+D:\Projects\EntityProje\bin\Debug\EntityFramework.dll
+D:\Projects\EntityProje\bin\Debug\EntityFramework.xml
+D:\Projects\EntityProje\obj\Debug\EntityProje.csproj.AssemblyReference.cache
+D:\Projects\EntityProje\obj\Debug\EntityProje.csproj.SuggestedBindingRedirects.cache
+D:\Projects\EntityProje\obj\Debug\EntityProje.Form1.resources
+D:\Projects\EntityProje\obj\Debug\EntityProje.Properties.Resources.resources
+D:\Projects\EntityProje\obj\Debug\EntityProje.csproj.GenerateResource.cache
+D:\Projects\EntityProje\obj\Debug\EntityProje.csproj.CoreCompileInputs.cache
+D:\Projects\EntityProje\obj\Debug\EntityProje.csproj.CopyComplete
+D:\Projects\EntityProje\obj\Debug\EntityProje.exe
+D:\Projects\EntityProje\obj\Debug\EntityProje.pdb
+D:\Projects\EntityProje\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EntityProje\bin\Debug\EntityFramework.SqlServer.xml
